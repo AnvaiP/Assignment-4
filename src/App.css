@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* header */
+
+.header {
+  text-align: center;
+  margin: 2em;
+}
+
+/* header */
+
+.home-main {
+  width: 70%;
+  display: flex;
+}
+
+.Blog1 {
+  width: 23%;
+  margin: 2em;
+}
+
+.Blog2 {
+  width: 23%;
+  margin: 2em;
+}
+
+.Blog3 {
+  width: 23%;
+  margin: 2em;
+}
+
+.home-nav {
+  width: 30%;
+  margin: 2em;
+}
+
+.main-content {
+  display: flex;
+}
+
+.images {
+  width: 100%;
+}
+
+.link {
+  text-decoration: none;
+}
+
+/* footer */
+.footer {
+  text-align: center;
+  margin: 2em;
+}
+
+/* footer */
+
+
+
+/* Blogs */
+
+.Blog1-blog {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+
+  width: 50%;
+}
+
+/* Blogs */
